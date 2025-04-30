@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextName" type="id"></item>
+    <item name="spinnerSubject" type="id"></item>
+    <item name="radioGroupGender" type="id"></item>
+    <item name="checkBoxUG" type="id"></item>
+    <item name="checkBoxPG" type="id"></item>
+    <item name="checkBoxPhD" type="id"></item>
+    <item name="buttonSubmit" type="id"></item>
+</resources>
